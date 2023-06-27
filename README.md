@@ -1,4 +1,4 @@
-# Cypess 
+# Cypress 
 Cypress is the fast reliable and Endto End solution for testing web applications
 
 **Why Cypress?**
@@ -22,4 +22,4 @@ Testing code with dependencies
 Tests full flow of the application
 Interacts and tests the application just like end user
 
-**Cypess Setup**
+**Cypress Setup**
